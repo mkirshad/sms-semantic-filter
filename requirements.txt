@@ -1,0 +1,2 @@
+lxml>=5.0
+sentence-transformers>=3.0

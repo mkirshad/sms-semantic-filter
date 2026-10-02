@@ -1,0 +1,13 @@
+{
+  "description": "Anything about buying the used car from the private seller: price talks, viewing it, paying for it, picking it up, and follow-ups such as insurance for the newly bought car.",
+  "positive_examples": [
+    "Did you call the guy about the Civic?",
+    "he says 4k firm",
+    "Bring cash just in case",
+    "I told him yes, picking it up after work"
+  ],
+  "negative_examples": [
+    "My mom's car is in the shop again",
+    "you're driving us to the dentist tomorrow"
+  ]
+}
